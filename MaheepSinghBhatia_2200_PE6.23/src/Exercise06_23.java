@@ -26,7 +26,7 @@ public class Exercise06_23 {
 			if(str.charAt(i) == ch) {
 			count++;	
 			}
+			return count;
 		}
-		return count;
 	}
 }
