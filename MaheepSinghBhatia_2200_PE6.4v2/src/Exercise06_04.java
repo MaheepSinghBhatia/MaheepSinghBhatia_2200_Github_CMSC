@@ -1,9 +1,8 @@
 /********************************************************
  * 
  * @author Maheep Singh Bhatia
- * Date: 11/14/2022 [M]
- * Edited: 11/16/2022 [W]
- *
+ * Date: 11/16/2022 [W]
+ * Exercise 6.4 V2 Practice Exam
  */
 import java.util.*;
 public class Exercise06_04 {
